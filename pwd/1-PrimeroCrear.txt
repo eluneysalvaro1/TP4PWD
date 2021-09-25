@@ -1,1 +1,0 @@
-Primero hay que crear la base de datos y si esta creada importar configuracion porque que cambiamos algunos nombres
